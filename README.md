@@ -1,4 +1,4 @@
-### **Video_Games_Sales_Report**
+### **Video_Game_Sales_Report**
 
 - Scenario:
   In the history of technology, video games have been one of the most promising fields. Game playing is a passion that most people share, whether they are children, teenagers, or adults. Therefore, it can be said that the Games market is always an attractive but
